@@ -1,6 +1,6 @@
 # Chromedriver downloader :computer:
 
-Descarga la última versión estable del chromedriver, util por su se usa selenium
+Descarga la última versión estable del chromedriver, útil por si se usa selenium
 
 ## Modo de uso :bookmark_tabs:
 
